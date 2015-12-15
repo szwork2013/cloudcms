@@ -4,10 +4,11 @@ module.exports = {
 	host: 'localhost',
 	port: 27017,
 	navList: [{
-    url: '/',
-    text: '首页'},
-    {
-    	url: '/reg',
+		 url: '/',
+		 text: '首页'
+		},
+		{
+			url: '/reg',
     	text: '注册'
     },
     {
